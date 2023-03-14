@@ -71,4 +71,9 @@ export const Footer = styled(motion.div)`
   text-align: center;
   width:100%;
   margin: 2.5rem 0;
+
+  a {
+      text-decoration: none;
+      color: inherit;
+    }
 `;

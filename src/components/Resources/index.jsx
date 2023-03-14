@@ -29,7 +29,7 @@ export default function Resources() {
             <Box border='none' borderBottom='5px solid var(--text)'><a href='https://genialcare.com.br/blog/dia-do-autismo-campanha-da-genial-care/'>Dia do Autismo</a></Box>
         </CardsWrapper>
         </Container>
-        <Footer>Criado por <u>Victor Alves</u></Footer>
+        <Footer>Criado por <u><a href='http://victorhugoalves.com/'>Victor Alves</a></u></Footer>
     </Wrapper>
   )
 }

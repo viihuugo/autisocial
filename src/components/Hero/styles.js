@@ -45,4 +45,6 @@ export const Arrow = styled(motion.div)`
     top: 65vh;
     transform: translateX(-50%);
     position: absolute;
+
+    ${media.thone`font-size: 8vw;`};
 `;
